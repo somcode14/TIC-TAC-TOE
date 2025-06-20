@@ -22,6 +22,9 @@ This is a two-player Tic Tac Toe (Noughts and Crosses) game that allows users to
 - *CSS* – Styling, layout, transitions, and responsive design
 - *JavaScript* – Handles the core game logic, event listeners, and pop-up messages
 
+Play Here-
+https://somcode14.github.io/TIC-TAC-TOE/ 
+
 
 
 
